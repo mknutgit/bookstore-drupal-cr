@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This weeks code review focused on site building with Drupal.  No coding was necessary._
+_This weeks code review focused on site building with Drupal.  No coding was necessary._
 
 ## Review Requirements:
 
@@ -30,12 +30,15 @@ _{This weeks code review focused on site building with Drupal.  No coding was ne
 Select the project directory.
 * Start the Servers.
 * In your browser, navigate to: http://localhost:8888/phpMyAdmin/
-* Import the database that is located in the sites/all/db-backup called bookstore.sql(1).zip (The name of the database is: bookstore).
+* Import the database that is located in the sites/all/db-backup called bookstore.sql(3).zip (The name of the database is: bookstore).
 * Once the database is successfully downloaded, click on it on the far left of the screen, and find the tab at the top of the screen called 'Privileges'.
 * Add the following user: User name: matt
 * Change host to: localhost
 * Password: Matt
 * click 'go'
+* User1 for the Drupal site: username: matt | password: matt
+* There is also a reviewer user who can add reviews and edit their reviews as per the requirements
+* Username: reviewer | password: matt
 
 ## Known Bugs
 
