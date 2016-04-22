@@ -6,7 +6,7 @@
 
 ## Description
 
-_This weeks code review focused on site building with Drupal.  No coding was necessary.  The focuse was on using core and contrib modules and the creation of features for feature tracking._
+_This weeks code review focused on site building with Drupal.  No coding was necessary.  The focus was on using core Drupal functionality. That included core and contrib modules as well as blocks, content types and features._
 
 ## Setup/Installation Requirements
 
