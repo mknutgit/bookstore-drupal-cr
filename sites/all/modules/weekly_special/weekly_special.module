@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Weekly Special feature.
+ */
+
+include_once 'weekly_special.features.inc';
