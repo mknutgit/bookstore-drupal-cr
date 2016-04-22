@@ -6,21 +6,7 @@
 
 ## Description
 
-_This weeks code review focused on site building with Drupal.  No coding was necessary._
-
-## Review Requirements:
-
-* Did you create a "Book Review" custom content type? Are the fields named correctly and in the correct order?_
-* Is there an "About" page and a "Locations" page?
-* Is there a Contact form with a "Contact" link in the main menu?
-* Are the 4 "Book Review" fields all set to required? Does the rating field use either radio buttons or a menu?
-* Did you create the "New Books" view and display it as a block?
-* Did you create a feature for the "Book Review" content type and the "New Books" view?
-* Did you create the "Reviewer" role and assign it the correct permissions?
-* Did you create the coupon block on the front page and make it only visible to authenticated users?
-* Is there a "Site Configuration" feature tracking the specified Strongarm variables? Did you make changes and then recreate your "Site Configuration" feature?
-* Are you able to discuss the process you used for your project and the concepts behind it with an instructor using correct terminology?
-* Did you export your database at the end of your project and include it with your repository with login information in a clear readme?
+_This weeks code review focused on site building with Drupal.  No coding was necessary.  The focuse was on using core and contrib modules and the creation of features for feature tracking._
 
 ## Setup/Installation Requirements
 
